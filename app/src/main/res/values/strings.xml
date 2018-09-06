@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">RedditFetch</string>
+    <string name="active_switches">ActiveSwitch</string>
+    <string name="timer_on">timerOn</string>
+</resources>

@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "217229542934",
+    "firebase_url": "https://redditdynowall.firebaseio.com",
+    "project_id": "redditdynowall",
+    "storage_bucket": "redditdynowall.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:217229542934:android:135b5506dfb9d1e1",
+        "android_client_info": {
+          "package_name": "com.a.redditfetch"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "217229542934-kscaqvv5hvos56cf0qftddbf8o5dn5c7.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.a.redditfetch",
+            "certificate_hash": "df7c9158f67ab52d65fc0a9656bd36bfa6df2d5b"
+          }
+        },
+        {
+          "client_id": "217229542934-80n4u5prdu6or7v0bu9u2bub1l13vi80.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDe2GyrrSNGXUrLRbQcSagmdejsOy4Li_8"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "217229542934-80n4u5prdu6or7v0bu9u2bub1l13vi80.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
